@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\김기현\documents\visual studio 2015\projects\sockettalk\chatserver\MyForm.h(154): warning C4101: 'ex' :참조되지 않은 지역 변수입니다.
+c:\users\김기현\documents\visual studio 2015\projects\sockettalk\chatserver\MyForm.h(159): warning C4101: 'ex' :참조되지 않은 지역 변수입니다.
+  ChatServer.vcxproj -> C:\Users\김기현\Documents\Visual Studio 2015\Projects\SocketTalk\Debug\ChatServer.exe
+  ChatServer.vcxproj -> C:\Users\김기현\Documents\Visual Studio 2015\Projects\SocketTalk\Debug\ChatServer.pdb (Full PDB)
