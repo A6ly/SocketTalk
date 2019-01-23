@@ -116,7 +116,7 @@ namespace ChatServer {
 			this->Controls->Add(this->IPTextBox);
 			this->Controls->Add(this->label1);
 			this->Name = L"MyForm";
-			this->Text = L"Server";
+			this->Text = L"SocketTalkServer";
 			this->FormClosing += gcnew System::Windows::Forms::FormClosingEventHandler(this, &MyForm::MyForm_FormClosing);
 			this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
 			this->ResumeLayout(false);

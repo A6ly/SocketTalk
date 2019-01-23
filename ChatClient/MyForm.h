@@ -221,7 +221,7 @@ namespace ChatClient {
 			this->Controls->Add(this->IPTextBox);
 			this->Controls->Add(this->label1);
 			this->Name = L"MyForm";
-			this->Text = L"SocketChat";
+			this->Text = L"SocketTalk";
 			this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
 			this->ResumeLayout(false);
 			this->PerformLayout();
