@@ -1,8 +1,0 @@
-﻿  Stdafx.cpp
-  AssemblyInfo.cpp
-  FormatterText.cpp
-  코드를 생성하고 있습니다...
-  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
-  AssemblyInfo.obj : 관리되는 코드가 있을 때 /DEBUG:FASTLINK은(는) 지원되지 않습니다. /DEBUG:FULL을 사용하여 링크를 다시 시작합니다.
-  FormatterText.vcxproj -> C:\Users\김기현\Documents\Visual Studio 2015\Projects\SocketTalk\Debug\FormatterText.dll
-  FormatterText.vcxproj -> C:\Users\김기현\Documents\Visual Studio 2015\Projects\SocketTalk\Debug\FormatterText.pdb (Partial PDB)
